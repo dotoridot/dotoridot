@@ -12,9 +12,9 @@ I’m also exploring code reviews grounded in team rules and conventions, system
 
 ## Selected projects
 
-- [Korean Humanizer](https://github.com/dotoricode/korean-humanizer) — An agent skill for making Korean writing more natural while preserving its meaning
-- [DocPilot](https://github.com/dotoricode/docpilot) — A desktop Markdown editor with Claude and Codex sessions, where you can review file changes before accepting them
-- [Kev Review Gate](https://github.com/dotoricode/kev-review-gate) — An experimental local code-review triage model adapted from Kev, with reproducible training, synthetic evaluations, and Claude/Codex agent skills.
+- [Korean Humanizer](https://github.com/dotoridot/korean-humanizer) — An agent skill for making Korean writing more natural while preserving its meaning
+- [DocPilot](https://github.com/dotoridot/docpilot) — A desktop Markdown editor with Claude and Codex sessions, where you can review file changes before accepting them
+- [Kev Review Gate](https://github.com/dotoridot/kev-review-gate) — An experimental local code-review triage model adapted from Kev, with reproducible training, synthetic evaluations, and Claude/Codex agent skills.
 
 ## Technologies
 
